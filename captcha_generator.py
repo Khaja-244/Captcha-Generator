@@ -22,6 +22,4 @@ def generate_captcha(text_length=6, save_path='captcha.png'):
     print(f'Saved as: {save_path}')
 
 if __name__ == '__main__':
-    generate_captcha()
-
-# Let me know if you’d like any more improvements! 🚀
+    generate_captcha()
